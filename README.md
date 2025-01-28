@@ -1,1 +1,1 @@
-Projeto Spotify: Imersão Front-End Alura
+Projeto Spotify: Imersão Front-End - Alura
