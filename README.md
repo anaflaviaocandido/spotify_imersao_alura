@@ -1,1 +1,1 @@
-spotify_imersao_alura
+Projeto Spotify: Imersão Front-End Alura
