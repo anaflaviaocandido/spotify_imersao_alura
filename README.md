@@ -8,6 +8,6 @@ Aula 02:
 Criação biblioteca com as opções para criar uma playlist, cookies e escolha de idiomas.
 ![image](https://github.com/user-attachments/assets/c83b9b60-0366-49a9-8daa-f6dc8f3886b7)
     
-- DESAFIO: Criar um footer -
+DESAFIO: Criar um footer 
 ![image](https://github.com/user-attachments/assets/8f8b50fa-a376-4d66-b78e-91d365c41f80)
 
