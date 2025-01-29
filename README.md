@@ -22,3 +22,10 @@ Este projeto foi desenvolvido durante a **Imersão Front-End** da **Alura**, com
 ![Footer criado](https://github.com/user-attachments/assets/8f8b50fa-a376-4d66-b78e-91d365c41f80)
 
 ---
+
+## Aula 03
+**Objetivo:** Criação das setas, barra de busca e botões de login/registro.
+
+
+
+---
