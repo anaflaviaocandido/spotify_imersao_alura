@@ -26,6 +26,6 @@ Este projeto foi desenvolvido durante a **Imersão Front-End** da **Alura**, com
 ## Aula 03
 **Objetivo:** Criação das setas, barra de busca e botões de login/registro.
 
-
+![image](https://github.com/user-attachments/assets/50d5eb64-9da0-4434-8fde-03ea24040311)
 
 ---
