@@ -2,6 +2,10 @@
 
 Este projeto foi desenvolvido durante a **Imersão Front-End** da **Alura**, com o objetivo de criar uma interface semelhante ao Spotify utilizando HTML, CSS e JavaScript.
 
+---
+Cores Utilizadas: https://colorhunt.co/palette/4417528174a0a888b5efb6c8
+---
+
 ## Aula 01
 **Objetivo:** Criação do Menu de início e busca, juntamente com a logo.
 
@@ -26,6 +30,6 @@ Este projeto foi desenvolvido durante a **Imersão Front-End** da **Alura**, com
 ## Aula 03
 **Objetivo:** Criação das setas, barra de busca e botões de login/registro.
 
-
+![image](https://github.com/user-attachments/assets/50d5eb64-9da0-4434-8fde-03ea24040311)
 
 ---
