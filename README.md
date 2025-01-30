@@ -34,12 +34,10 @@ Cores Utilizadas: https://colorhunt.co/palette/4417528174a0a888b5efb6c8
 
 ---
 
-##Aula 04
+## Aula 04
 
 ![image](https://github.com/user-attachments/assets/a3978779-e684-4b9b-963b-6957d4cdb710)
 
 ![image](https://github.com/user-attachments/assets/c7080963-4a80-4963-91aa-f1552de75c6e)
 
 ---
-
-
